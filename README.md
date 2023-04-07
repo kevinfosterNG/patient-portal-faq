@@ -1,4 +1,4 @@
-#Outline for FAQ component
+# Outline for FAQ component
 
 Static Azure Webapp publishing to https://lively-island-0b9986810.3.azurestaticapps.net/
 
