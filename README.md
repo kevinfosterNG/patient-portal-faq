@@ -19,13 +19,13 @@ With each FAQ item added in the pattern provided, a quick link to a specific FAQ
 
 ## FAQ Examples:
 
-Q1 Dependent / Child medical records are missing?
+Q1 Where are my dependent's medical records?
 
 A1 We dont expose medical records for minors or dependents.
 
-Q2 Lab Results missing?
+Q2 I can't see my lab results.
 
-A2 Testing we do in the office will be there. Typically lab testing we send out to 3rd part laboratries comes back within a few days.  If the lab faxes it to us, it may not be accessible in your chart. Contact the clinic for a MR request
+A2 Testing we do in the office will be there. Typically lab testing we send out to 3rd party laboratries comes back within a few days.  If the lab faxes it to us, it may not be accessible in your chart. Contact the clinic directly for a Medical Record request.
 
 Q3 Can I access medical record if account created with different phone number?
 
